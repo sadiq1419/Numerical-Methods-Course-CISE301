@@ -1,2 +1,2 @@
 # CISE301 Numerical Methods 
-My Homework solution attempts for CISE 301 Numerical Methods course.
+My homework and quizzes attempts for CISE 301 Numerical Methods course.
